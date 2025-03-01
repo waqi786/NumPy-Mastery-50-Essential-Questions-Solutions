@@ -72,7 +72,6 @@ print("Generated Array:\n", arr)
 
 ## 🔗 Connect with Me
 📌 **GitHub**: [waqi786](https://github.com/waqi786)  
-📌 **LinkedIn**: [Waqar Ali](https://www.linkedin.com/in/waqar-ali)  
 📌 **Kaggle**: [waqi786](https://www.kaggle.com/waqi786)  
 
 ---
